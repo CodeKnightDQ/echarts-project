@@ -1,0 +1,166 @@
+[
+  {
+    "referer": "-",
+    "pv": "39780159"
+  },
+  {
+    "referer": "https://fanyi.sogou.com",
+    "pv": "204357"
+  },
+  {
+    "referer": "https://fanyi.sogou.com/",
+    "pv": "47610"
+  },
+  {
+    "referer": "http://fanyi.sogou.com/?fr=websearch&from=zh-CHS&keyword=%E6%90%9C%E7%8B%97%E6%90%9C%E7%B4%A2&pid=&to=en",
+    "pv": "34586"
+  },
+  {
+    "referer": "https://www.baidu.com/",
+    "pv": "15674"
+  },
+  {
+    "referer": "http://fanyi.sogou.com",
+    "pv": "14635"
+  },
+  {
+    "referer": "https://fanyi.sogou.com/text?keyword=&transfrom=en&transto=zh-CHS&model=general",
+    "pv": "7583"
+  },
+  {
+    "referer": "https://fanyi.sogou.com/text?keyword=&transfrom=auto&transto=zh-CHS&model=general",
+    "pv": "6748"
+  },
+  {
+    "referer": "https://www.sogou.com/tx?query=%E7%BF%BB%E8%AF%91&hdq=sogou-site-706608cfdbcc1886&ekv=3&ie=utf8&",
+    "pv": "5934"
+  },
+  {
+    "referer": "https://fanyi.sogou.com/text?keyword=&transfrom=zh-CHS&transto=en&model=general",
+    "pv": "5774"
+  },
+  {
+    "referer": "https://www.google.com/",
+    "pv": "4363"
+  },
+  {
+    "referer": "https://translate.sogou.com/",
+    "pv": "4249"
+  },
+  {
+    "referer": "https://fanyi.sogou.com/text?keyword=&transfrom=auto&transto=en&model=general",
+    "pv": "3683"
+  },
+  {
+    "referer": "https://www.sogou.com/sie?hdq=AQxRG-0000&query=%E7%BF%BB%E8%AF%91&ie=utf8",
+    "pv": "3424"
+  },
+  {
+    "referer": "https://www.sogou.com/tx?ie=utf-8&pid=sogou-site-1f2b8183cd1e469a&query=%E7%BF%BB%E8%AF%91",
+    "pv": "2977"
+  },
+  {
+    "referer": "https://wap.sogou.com/",
+    "pv": "2820"
+  },
+  {
+    "referer": "https://cn.bing.com/",
+    "pv": "2328"
+  },
+  {
+    "referer": "https://www.sogou.com//",
+    "pv": "2311"
+  },
+  {
+    "referer": "https://wap.sogou.com/web/sl?bid=sogou-mobp-0fbce6c74ff376d1&keyword=%E7%BF%BB%E8%AF%91",
+    "pv": "2164"
+  },
+  {
+    "referer": "http://fanyi.sogou.com/?fr=common_index_nav_pc/",
+    "pv": "2048"
+  },
+  {
+    "referer": "https://m.sogou.com/",
+    "pv": "2041"
+  },
+  {
+    "referer": "https://m.baidu.com/",
+    "pv": "1934"
+  },
+  {
+    "referer": "https://fanyi.sogou.com/text?keyword=&transfrom=zh-CHS&transto=ja&model=general",
+    "pv": "1795"
+  },
+  {
+    "referer": "https://www.sogou.com/sogou?prs=5&rfg=1&query=%E7%BF%BB%E8%AF%91&pid=AQktG&ie=utf8",
+    "pv": "1316"
+  },
+  {
+    "referer": "https://www.sogou.com/tx?ie=utf-8&query=%E7%BF%BB%E8%AF%91&hdq=sogou-addr-cc9657884708170e",
+    "pv": "1282"
+  },
+  {
+    "referer": "https://www.sogou.com/tx?query=%E6%90%9C%E7%8B%97%E7%BF%BB%E8%AF%91&hdq=sogou-site-706608cfdbcc1886&ekv=3&ie=utf8&",
+    "pv": "1268"
+  },
+  {
+    "referer": "https://www.sogou.com/tx?query=%E5%9C%A8%E7%BA%BF%E7%BF%BB%E8%AF%91&hdq=sogou-site-706608cfdbcc1886&ekv=3&ie=utf8&",
+    "pv": "1177"
+  },
+  {
+    "referer": "https://www.sogou.com/sie?hdq=AQxRG-4561&query=%E7%BF%BB%E8%AF%91&ie=utf8",
+    "pv": "1174"
+  },
+  {
+    "referer": "https://fanyi.sogou.com/text?keyword=&transfrom=en&transto=zh-CHS&model=general&fr=websearch_submit",
+    "pv": "1104"
+  },
+  {
+    "referer": "https://fanyi.sogou.com/text",
+    "pv": "1079"
+  },
+  {
+    "referer": "https://www.sogou.com/tx?query=%E7%BF%BB%E8%AF%91&hdq=sogou-site-c91e3483cf4f9005-0001&ekv=3&ie=utf8&",
+    "pv": "946"
+  },
+  {
+    "referer": "https://www.sogou.com/sie?hdq=AQxRG-0000&query=%E5%9C%A8%E7%BA%BF%E7%BF%BB%E8%AF%91&ie=utf8",
+    "pv": "906"
+  },
+  {
+    "referer": "https://www.sogou.com/sie?hdq=AQxRG-0000&query=%E6%90%9C%E7%8B%97%E7%BF%BB%E8%AF%91&ie=utf8",
+    "pv": "880"
+  },
+  {
+    "referer": "https://fanyi.sogou.com/text?keyword=&transfrom=zh-CHS&transto=en&model=general&fr=websearch_submit",
+    "pv": "855"
+  },
+  {
+    "referer": "https://fanyi.sogou.com/text?keyword=&transfrom=auto&transto=zh-CHS&model=general&fr=websearch_submit",
+    "pv": "850"
+  },
+  {
+    "referer": "https://fanyi.sogou.com/text?keyword=&transfrom=auto&transto=ja&model=general",
+    "pv": "849"
+  },
+  {
+    "referer": "https://www.sogou.com/tx?query=%E7%BF%BB%E8%AF%91%E5%99%A8&hdq=sogou-site-706608cfdbcc1886&ekv=3&ie=utf8&",
+    "pv": "838"
+  },
+  {
+    "referer": "https://www.sogou.com/tx?query=%E7%BF%BB%E8%AF%91&hdq=sogou-wsse-257deb66f5366aab&ekv=2&ie=utf8&cid=qb7.zhuye&",
+    "pv": "815"
+  },
+  {
+    "referer": "https://www.sogou.com/sogou?query=%E7%BF%BB%E8%AF%91&ie=utf8&pid=sogou-brse-0da44af358e8fcb6",
+    "pv": "815"
+  },
+  {
+    "referer": "https://fanyi.sogou.com/text?keyword=&transfrom=ja&transto=zh-CHS&model=general",
+    "pv": "757"
+  },
+  {
+    "referer": "other",
+    "pv": "361267"
+  }
+]
